@@ -5,7 +5,7 @@
 This comprehensive guide compares 22 leading VPS (Virtual Private Server) providers across multiple dimensions including pricing, performance, features, support, and global coverage.
 
 ---
-*We earn commissions when you shop through the links below*
+*Disclosure: We earn commissions when you shop through the links below*
 ## Main Comparison Table
 
 | Provider Name | Free Trial | VPS Types | CPU (Starter) | RAM (Starter) | Storage (Starter) | Bandwidth (Starter) | Price Starter (USD/Month) |
